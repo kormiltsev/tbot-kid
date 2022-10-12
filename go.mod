@@ -1,4 +1,4 @@
-module github.com/NautiloosGo/tbot-kid
+module github.com/kormiltsev/tbot-kid
 
 go 1.18
 
